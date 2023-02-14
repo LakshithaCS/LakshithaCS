@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:100;">Lakshitha Srimal</span>
+# Lakshitha Srimal
 
 <p>
 I am a computer engineer with a strong background in software development, full stack development, and machine learning. I graduated with distinction from the University of Peradeniya and have since been constantly seeking new knowledge and skills to grow in my field. I have a keen interest in full stack development as it allows me to understand the entire software development process, from front-end design to back-end implementation. Additionally, I am fascinated by the potential of machine learning to revolutionize industries and I have a deep understanding of the algorithms and techniques used in this field. I am a highly analytical and detail-oriented individual with a passion for solving complex problems and troubleshooting issues in software systems. With my technical expertise and enthusiasm for new technologies, I am well-equipped to make significant contributions to the field of computer engineering.
